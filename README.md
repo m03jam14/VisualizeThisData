@@ -2,8 +2,6 @@
 
 # Robbery Incidents Study Across Alberta, Manitoba and Ontario
 
-A comprehensive Power BI analytics dashboard examining robbery incident patterns, crime rates, and forecasting trends across three major Canadian provinces from 2014-2024.
-
 ## Overview
 
 This project presents an advanced crime analytics dashboard that visualizes and analyzes robbery incident data across Alberta, Manitoba, and Ontario. The dashboard provides multi-dimensional analysis including temporal trends, geographical distributions, city-level comparisons, and predictive forecasting models.
